@@ -189,7 +189,9 @@ a {
     border: none;
 }
 
-
+.btn__menu--svg:hover {
+    filter: invert(26%) sepia(94%) saturate(7476%) hue-rotate(261deg) brightness(94%) contrast(115%);
+}
 
 
 
